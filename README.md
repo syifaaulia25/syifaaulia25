@@ -1,12 +1,19 @@
--👋 Hi, I'm @syifaaulia25
-- 👀 I'm interested in something
-- 🌱 I'm currently learning to code
-- 💞️ I want to collaborate on anything
-- 📫 How to contact me is empty
-- 😄 Pronouns: just call me sist
-- ⚡ Interesting fact: I am 21 years old
+### Hi, I'm Syifa Aulia! 👋
 
-<!---
-syifaaulia25/syifaaulia25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Technical Informatics student at Universitas Bina Insani, passionate about building web applications and exploring Artificial Intelligence.
+
+- 💻 **Tech Stack:** PHP, CodeIgniter 3, MySQL, Bootstrap.
+- 🧠 **Interests:** Expert Systems, Big Data Analytics, and Machine Learning.
+- 🚀 **Current Focus:** Developing scalable web solutions and improving my backend development skills.
+- 🤝 **Open to collaboration:** If you're working on projects related to Web Development or AI, feel free to reach out!
+
+---
+### 🛠 Skills & Tools
+- **Languages:** PHP
+- **Frameworks:** CodeIgniter
+- **Database:** MySQL
+- **Frontend:** Bootstrap, JavaScript
+- **Tools:** Git, GitHub, Arduino (IoT basics)
+
+---
+📫 **How to reach me:** [Insert your LinkedIn or Email here]
