@@ -16,4 +16,4 @@ I'm a Technical Informatics student at Universitas Bina Insani, passionate about
 - **Tools:** Git, GitHub, Arduino (IoT basics)
 
 ---
-📫 **How to reach me:** [syifaaulia7138@gmail.com]
+📫 **How to reach me:** syifaaulia7138@gmail.com
